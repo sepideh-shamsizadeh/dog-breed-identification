@@ -12,6 +12,7 @@ mkdir -p optimizers
 mkdir -p utils
 mkdir -p results/plots
 mkdir -p logs
+mkdir -p notebooks
 
 # Create __init__.py files to make them Python packages
 touch models/__init__.py
@@ -22,6 +23,8 @@ touch optimizers/__init__.py
 touch utils/__init__.py
 touch results/__init__.py
 touch logs/__init__.py
+touch notebooks/01_explore_data.ipynb
+
 
 # Main code files
 touch models/model.py

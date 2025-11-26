@@ -1,0 +1,21 @@
+# Core deep learning
+torch
+torchvision
+
+# Array & math
+numpy
+pandas
+
+# Image handling
+Pillow
+
+# Training utilities
+tqdm
+
+# Metrics / evaluation
+scikit-learn
+
+# Plotting (for loss curves, confusion matrices, etc.)
+matplotlib
+
+jupyter
